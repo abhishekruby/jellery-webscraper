@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Binaries
+*.bin
+
+# Data / Output
+*.xlsx
+*.csv
+*.json
+*.html
+*.txt
+# Allow some txt or json if needed, but often generated in scraper
+!requirements.txt
+!urls.txt
