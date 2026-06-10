@@ -129,4 +129,3 @@ cython_debug/
 
 # Project Specific
 logs/
-output/
