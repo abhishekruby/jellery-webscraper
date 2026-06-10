@@ -25,12 +25,6 @@ desktop.ini
 # Binaries
 *.bin
 
-# Data / Output
-*.xlsx
-*.csv
-*.json
-*.html
-*.txt
 # Allow some txt or json if needed, but often generated in scraper
 !requirements.txt
 !urls.txt

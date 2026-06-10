@@ -1,0 +1,5 @@
+https://www.jamesallen.com/service-api/user-location-api/location
+https://ion.jamesallen.com/sets/Jewelry/JewelryViewer/3D_models/James_Allen/Rings/BAB/Shanks/Shank_001/Shank_JAS01.gltf
+https://ion.jamesallen.com/sets/Jewelry/JewelryViewer/3D_models/Stones/Main/RND/RND.gltf
+https://ion.jamesallen.com/sets/Jewelry/JewelryViewer/shapes_data_06/RND.json?v=2.0.86
+https://ion.jamesallen.com/sets/Jewelry/JewelryViewer/3D_models/James_Allen/Rings/BAB/Heads/Head_001/RND/Head_JAH01_PR_RND_100.gltf
